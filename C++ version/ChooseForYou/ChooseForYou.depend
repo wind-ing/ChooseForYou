@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1619691114 source:f:\github文件库\chooseforyou\c++ version\chooseforyou\main.cpp
+1621930917 source:f:\github文件库\chooseforyou\c++ version\chooseforyou\main.cpp
 	<iostream>
 	<time.h>
+	<string.h>
 

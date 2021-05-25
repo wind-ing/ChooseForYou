@@ -43,7 +43,7 @@ void question()
 {
     //提问过程
     cout << "你希望做出抉择的事情是？" << endl;
-    cin >> strQ;
+    getline(cin, strQ);
 
     int nOfChoice = 1;
     string str;//中间变量
