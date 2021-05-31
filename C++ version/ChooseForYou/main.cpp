@@ -65,7 +65,7 @@ void answer()
     //回答过程
     srand((int)time(NULL));//根据时间产生不同的随机数种子
     int ans = 1, maxc = 1;
-    for(int i=1; i<=100; i++)
+    for(int i=1; i<=1000; i++)
     {
         ans = rand() % maxn + 1;
         WOfChoice[ans]++;
